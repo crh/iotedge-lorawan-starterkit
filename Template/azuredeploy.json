@@ -39,8 +39,8 @@
         {
             "type": "Microsoft.Devices/IotHubs",
             "sku": {
-                "name": "S1",
-                "tier": "Standard",
+                "name": "F1",
+                "tier": "Free",
                 "capacity": 1
             },
             "name": "[variables('iotHubName')]",
